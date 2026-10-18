@@ -80,6 +80,12 @@ How do products, categories, zones, weekdays and time bands affect revenue and o
 
 The workbook does not identify the currency, data provenance or publication licence. The raw and clean row counts differ; inspect the Audit sheet and cleaning logic before claiming complete source coverage. Ratings and delivery durations can be missing for cancelled orders. On-time criteria should be checked in workbook formulas. Net revenue is not profit.
 
+## Dashboard Preview
+
+### 1. Summary Dashboard
+
+##[Grocery PerformanceDashboard]<img width="2571" height="2882" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/42a8167a-e5f5-467d-8d8b-6a8caf58ea3f" />
+
 ## Repository contents
 
 - `Grocery_Performance_Dashboard(1).xlsx` — Excel workbook
@@ -90,6 +96,3 @@ The workbook does not identify the currency, data provenance or publication lice
 
 Microsoft Excel, formulas, interactive filters, data cleaning, KPI reporting and validation.
 
-## Author
-
-Srikanth Kamuni | SK Data Analytics Portfolio
